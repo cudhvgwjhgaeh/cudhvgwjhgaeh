@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on NOI
+
+- 🌱 I’m currently learning NOI
+
+- ⚡ Fun fact: I am a human
+
 <!--
 **cudhvgwjhgaeh/cudhvgwjhgaeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
